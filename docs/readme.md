@@ -4,3 +4,4 @@ Mobile application for organizing events.
 - Create events
 - Manage participants
 Alternative path: revert to restore previous state
+## Setup Instructions
